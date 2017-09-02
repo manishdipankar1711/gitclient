@@ -23,7 +23,7 @@ var RepositoryComponent = (function (RepositoryComponent) {
 	}
 
 	paintRepositry = funnction(repName){
-
+		
 	}
 
 	return RepositoryComponent;
