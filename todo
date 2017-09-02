@@ -1,0 +1,63 @@
+TechScan - Frontend
+
+[Problem Statement]
+
+Develop a Frontend Web Application for TechScan.
+
+TechScan is basically the source code version control info domain of Cast software. All the repos, users and their commits can be viewed in TechScan.
+
+[Ideal Behaviour]
+
+On Front End:
+
+— Get all the relevant data from the provided APIs.
+
+— Your web app should have 3 components which should drill down to in-detail about a particular technology.
+
+— Screen 1: Should categorize TechScan as per Technologies (JavaScript, Java, Python, Php, Ruby)
+
+— Screen 2: Should list the top 9 repo’s as per the technology user selected
+
+Should have search and filter option for repo’s.
+Should display 9 repo’s at a time and there should be pagination for the next set of repo’s to display
+— Screen 3: Should display details about the repo owner that was selected by the user in screen2, if that owner has multiple repos, it should list that too.
+
+— Implement Pagination and Search on the backend.
+
+[Plus Point]
+
+— Perform QA testing using the following applications
+
+--Chai
+
+--Mocha
+
+--Jasmin
+
+--karma
+
+— Documented, well structured beautified code.
+
+[Extra Work]
+
+— Custom elegant design, fonts and icons to make web app more user-friendly.
+
+— You may add portfolio activity comprising awesome work you have done on web applications.
+
+— Use your imagination and add features which would make things easier for end users.
+
+Note: If you complete any or all of the above-mentioned levels please do submit.
+
+[Guide]
+
+Cast Software API Doc: http://hck.re/nNBnXt
+
+Tech stack:
+
+Front End: Any javascript framework such as Angularjs, Reactjs, Vuejs.
+
+[Important Note]
+
+Push the working copy of TechScan into GitHub and share us the link to your public repo along with the instruction to install (readme.txt)
+
+If we find any errors while installing/building you will be disqualified
